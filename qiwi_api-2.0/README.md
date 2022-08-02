@@ -4,15 +4,15 @@
 
 
 # Инструкция по установки:
-apt update 
-apt upgrade
-apt install git
-apt install php
-apt install python
-apt install libgnutls
-pip install SimpleQIWI
-pip install colorama
-git clone https://github.com/ivvova23/qiwi.git
-cd qiwi
-cd qiwi_api-2.0
-python qiwi.py
+1.apt update 
+2.apt upgrade
+4.apt install git
+5.apt install php
+6.apt install python
+7.apt install libgnutls
+8.pip install SimpleQIWI
+9.pip install colorama
+10.git clone https://github.com/ivvova23/qiwi.git
+11.cd qiwi
+12.cd qiwi_api-2.0
+13.python qiwi.py
